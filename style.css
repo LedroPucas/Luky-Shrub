@@ -308,6 +308,13 @@ main{
     width: 100px;
     border-radius: 100%;
     background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle i{
+    font-size: 300%;
 }
 
 .q-items{
